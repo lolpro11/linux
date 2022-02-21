@@ -9,6 +9,8 @@ https://www.reddit.com/r/archlinux/comments/pupbkh/failed_to_start_network_confi
 
 Kernel Source: https://github.com/Vogtinator/linux/tree/cxII-usb-host
 
+Tutorial: https://www.omnimaga.org/ti-calculator-programming-and-support/linux-on-ti-nspire-cx-ii-!/
+
 Setup commands: `sudo cp /usr/bin/qemu-arm-static /mnt/usr/bin` `sudo bsdtar xzvf ArchLinuxARM-armv5-latest.tar.gz -C /mnt`
 
 https://askubuntu.com/questions/644010/ubuntu-cant-read-my-usb-device-descriptor-read-64-error-110
