@@ -1,3 +1,5 @@
+# I use Arch BTW
+  ![neofetch](./neofetch.png)
 # Hardware Requirements
   - An OTG mini USB to USB adapter
   - A USB flash drive with at least 1 GB of storage
