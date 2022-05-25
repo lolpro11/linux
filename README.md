@@ -1,7 +1,7 @@
 # I use Arch BTW
   ![neofetch](./neofetch.jpg)
 # Hardware Requirements
-  - An OTG mini USB to USB adapter
+  - An OTG mini USB to USB Type A adapter
   - A USB flash drive with at least 1 GB of storage
   - A TI-Nspire CX II (CX II CAS or CX-T is fine but not CX)
 # Helpful Links
